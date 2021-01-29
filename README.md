@@ -47,5 +47,6 @@ More to come, soon.
 ## Images/Videos
 <p align="center">
     <img src="https://i.gyazo.com/63afdd764cdca533af5ebca843217a7e.gif" />
+    <img src="https://i.gyazo.com/b5e6a8043d2516ab0fa208b0a8e3198d.gif" />
 </p>
 
